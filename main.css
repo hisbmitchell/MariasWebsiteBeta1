@@ -31,8 +31,9 @@ img {
       
       left: 50%;
       right:50%;
-      max-width: 95%;
-      padding-bottom: 20%;
+      max-width: 100%;
+      min-wdith:30%;
+      padding-bottom: 30%;
   
   }
     
