@@ -17,27 +17,9 @@ img {
 }
 
 
-body {
-  background-color: black;
-padding-top: 10%;
-    
-}
-
-img {
-    
-    display:block;
-    max-width: 600px; 
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    padding-bottom: 20%;
-    
-    
-}
-
 @media only screen and (max-width: 500px) {
   body {
-    background-color: lightgreen;
+    background-color: lightyellow;
       
   }
     
