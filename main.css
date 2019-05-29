@@ -12,3 +12,39 @@ img {
   
  padding-bottom: 20%;
 }
+
+
+body {
+  background-color: black;
+padding-top: 10%;
+    
+}
+
+img {
+    
+    display:block;
+    max-width: 600px;
+    margin:auto;
+    padding-bottom: 20%;
+    
+    
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+      
+  }
+    
+    img {
+    
+    display:block;
+    max-width: 600px;
+    margin-left: 50%;
+    padding-bottom: 40%;
+    
+    
+}
+
+}
+
